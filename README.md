@@ -1,4 +1,4 @@
-# todo-list-flask
+# Todo-list-flask
 
 ## A clean and simple To-Do list web app built using Flask and SQLite, with support for:
 
